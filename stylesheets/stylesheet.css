@@ -204,7 +204,7 @@ ul, ol, dl {
 }
 
 ul li {
-  list-style: inside;
+  list-style: none;
   padding-left: 20px;
 }
 
@@ -303,6 +303,7 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
+  text-align: center;
 }
 
 #project_title {
@@ -368,6 +369,9 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
+  border-left: 1px dashed black;
+  border-right: 1px dashed black;
+  text-align: center;
 }
 
 #footer_wrap {
