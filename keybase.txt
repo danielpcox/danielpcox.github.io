@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/danielpcox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielpcox.info
+  * I am danielpcox (https://keybase.io/danielpcox) on keybase.
+  * I have a public key with fingerprint D085 A81C CE7C 291D 7A9E  1F70 14DA 0F0F BB08 2FEE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d085a81cce7c291d7a9e1f7014da0f0fbb082fee",
+            "host": "keybase.io",
+            "key_id": "14da0f0fbb082fee",
+            "kid": "0101f416119f2c48ffef78585d4d4399452e07870928a5767087d8e28b51eb64f20e0a",
+            "uid": "b280e3d7d06d6f0855aa2e36acb43000",
+            "username": "danielpcox"
+        },
+        "service": {
+            "hostname": "danielpcox.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429387149,
+    "expire_in": 157680000,
+    "prev": "3f116dee6501b96b61b8eb2fa3a9873ed0051f7164258f7bedd24c14fe14b820",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJpSBZBGMfXMistEjq+FJQbBKnVzOw1+3YYhJRFB4EgWOnOzszrpu2+
+7r6vFSZWdBBdGhXRbacdFFESUUSWVHSAH0I0qCjBgk7Syi5rVupTfRrmef7Pb57/
+M0/T4L5SalK/njZ0buz5SNL9xtyElI8ub62UiUdXypFKuZT1Htxxo8yP+Y4blyMy
+BVizMLRtZtjIhNSwTAa5AaBKLcABJwRgxBmTs+USLwgrBIZYAZvoeCImLkUOFdH/
+6Et7EwACyFWoQ2hyZKuYc8YNrGGNqlRVTFPVEAMGNoCJsKUZugGwQTFDmGiQEV3l
+CDBgCVyiF0cQBkyhBgU61bloXrMsxBTdsomqAABCYcB811rGQneW67CymO2tkKuy
+ZRGvcGwWDiH08o9mouPy0FTM9+Ke7ZWJZEk8HouEtfGVsVC8nJGiP5gi4rhUzFIU
+VDA/cDxXjkChtONOyIUqMhVsQNXMltmKmOOzIidUCItY9AnCZ1iFQCocQp0ypmsA
+ElMnOiSYEcQtxTKxoTAKgCZ+BOoq0jA3CKMUqTZUOYMqwSh0HLBy15MjimjTigpk
+4ERdK57wmVx188aiZCkpVUrp1yfcBil1YPrfHem+0P/XonyUduWI1DV/ZNrjNznd
+O15/Lm6ML3585uf5lkmTPpR7GWjY06mnJr+oPjnVrEusUzvPzF54d0Bx4fAxi5vy
+JqzZ87VuC84svd1F5u0qyKvNzeyp9puza8fcAxsbN42/m7jenuKktx/IOlTzfcSo
+Y2/TlpT/2PtKqtQfTus42/a8ZFifYH5DQUpT+uqCa/Ubvj9QW+uGfvl0/EKdsbT6
+lX9pc2xz55RZQy6W5Ww/mPVk9w44/Wb1/QUZ64PMvKyZs8Y/OtHdkFG47XTrt1qj
+pfjjncM9D2bQhprooVuDQO5VKXf0voPlQU1TcvO44XP311+pjIK1R/u+fzb9+aqd
+V19WvX+3ZY7U8RsAMi1d
+=2qDE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielpcox
+
+==================================================================
